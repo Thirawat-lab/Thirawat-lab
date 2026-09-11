@@ -12,11 +12,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-
-<img
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDV0NnI3Mjd4Nml5NHNnYXVxdXZsYjJvajBndWd5ZHh5d3JnbzF4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1SAUjLEbEggpdFzKbJ/giphy.gif" width="100" height="100" />
 <a href="http://www.github.com/Thirawat-lab"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thirawat-lab&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Thirawat-lab/Thirawat-lab" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thirawat-lab&repo=Thirawat-lab&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+<img
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDV0NnI3Mjd4Nml5NHNnYXVxdXZsYjJvajBndWd5ZHh5d3JnbzF4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1SAUjLEbEggpdFzKbJ/giphy.gif" width="100" height="100" />
